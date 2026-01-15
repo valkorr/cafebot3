@@ -14,7 +14,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 logging.basicConfig(level=logging.INFO)
 
 TOKEN = "8403503474:AAGiHEkKZUdeI5E1os00_aUjBrmnI-WoKIM"
-ADMIN_ID = 525686534
+ADMIN_ID = 608916288
 BOOKINGS_FILE = "bookings.json"
 BLOCKED_TABLES_FILE = "blocked_tables.json"
 
