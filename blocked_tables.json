@@ -1,0 +1,226 @@
+[
+  {
+    "table_number": 1,
+    "date": "15.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:34:39",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 7,
+    "date": "15.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:35:09",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 1,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 2,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 3,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 4,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 5,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 6,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 7,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 8,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 9,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 10,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 11,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 12,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 13,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 14,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 15,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 16,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 17,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 18,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 19,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 20,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 21,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 22,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 23,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 24,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 25,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 26,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 27,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 28,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 29,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  },
+  {
+    "table_number": 30,
+    "date": "17.01.2026",
+    "permanent": true,
+    "blocked_at": "15.01.2026 02:58:57",
+    "blocked_by": "admin"
+  }
+]
